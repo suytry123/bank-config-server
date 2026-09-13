@@ -1,5 +1,5 @@
 account:
-  msg: Welcome to the Suytry Bank Account Production application Filesystem
+  msg: Welcome to the Suytry Bank Account Production application GitHub
   build-version: 1
 
   mailDetails:
