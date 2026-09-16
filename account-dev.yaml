@@ -5,7 +5,7 @@ account:
   mailDetails:
     hostName: dev-account@suytry.com
     port: 9001
-    from: e772fcf56b2081f9e6e325e155dae5e3346da3bdcbf5c43c005c97f9b5ed1999d5331ec066388a9d700d1dad03afb107
+    from: {cipher}e772fcf56b2081f9e6e325e155dae5e3346da3bdcbf5c43c005c97f9b5ed1999d5331ec066388a9d700d1dad03afb107
     subject: Your Account Details from Suytry Bank Dev Environment
 
   activeBranches:
