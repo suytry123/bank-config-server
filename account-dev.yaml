@@ -4,7 +4,7 @@ account:
 
   mailDetails:
     hostName: dev-account@suytry.com
-    port: 9001
+    port: 8888
     from: dev-account@suytry.com
     subject: Your Account Details from Suytry Bank Dev Environment
 
