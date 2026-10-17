@@ -4,7 +4,7 @@ card:
 
   mailDetails:
     hostName: prod-card@suytry.com
-    port: 9002
+    port: 90021
     from: prod-card@suytrycard.yaml.com
     subject: Your CARD Details from Suytry Bank Prod Environment
 
