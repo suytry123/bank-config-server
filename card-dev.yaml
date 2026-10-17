@@ -1,0 +1,14 @@
+card:
+  msg: Welcome to the Suytry Bank CARD Dev application GitHub
+  build-version: 2
+
+  mailDetails:
+    hostName: dev-card@suytry.com
+    port: 9001
+    from: '{cipher}e772fcf56b2081f9e6e325e155dae5e3346da3bdcbf5c43c005c97f9b5ed1999d5331ec066388a9d700d1dad03afb107'
+    subject: Your CARD Details from Suytry Bank Dev Environment
+
+  activeBranches:
+    - Kompong Speu
+    - Kom Pot
+    - Koh Kong
