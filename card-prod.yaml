@@ -1,10 +1,10 @@
 card:
-  msg: Welcome to the Suytry Bank CARD Production application GitHub
+  msg: Welcome to the Suytry Bank CARD Production application GitHub 4000
   build-version: 1
 
   mailDetails:
     hostName: prod-card@suytry.com
-    port: 90021
+    port: 9002
     from: prod-card@suytrycard.yaml.com
     subject: Your CARD Details from Suytry Bank Prod Environment
 
